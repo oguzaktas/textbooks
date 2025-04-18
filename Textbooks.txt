@@ -27,7 +27,6 @@
 - David A. Forsyth & Jean Ponce - Computer Vision_ A Modern Approach (2nd Edition) (2011) (Pearson) Problem Solutions
 - David Farley - Modern Software Engineering_ Doing What Works to Build Better Software Faster (1st Edition) (2021) (Addison-Wesley Professional)
 - David Liben-Nowell - Discrete Mathematics for Computer Science (1st Edition) (2017) (Wiley)
-- David William Oxtoby & H. Pat Gillis & Laurie Jeanne Butler - Principles of Modern Chemistry (8th Edition) (2016) (Cengage Learning)
 - Dimitri Panteli Bertsekas & John N. Tsitsiklis - Introduction to Probability (2nd Edition) (2008) (Athena Scientific)
 - Dimitri Panteli Bertsekas & John N. Tsitsiklis - Introduction to Probability (2nd Edition) (2008) (Athena Scientific) Problem Solutions
 - Edward Roy Davies - Computer Vision_ Principles, Algorithms, Applications, Learning (5th Edition) (2018) (Academic Press)
@@ -43,6 +42,7 @@
 - Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions (6th Edition) (2015) (CareerCup)
 - Gayle Laakmann McDowell - Cracking the Tech Career_ Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company (2nd Edition) (2015) (Wiley)
 - Gayle Laakmann McDowell - The Google Résumé_ How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, or Any Top Tech Company (1st Edition) (2011) (Wiley)
+- Gilbert Strang - Calculus (3rd Edition) (2019) (Wellesley-Cambridge Press)
 - Gilbert Strang - Introduction to Linear Algebra (6th Edition) (2023) (Wellesley-Cambridge Press)
 - Glenn Johnson - Training Guide_ Programming in HTML5 with JavaScript and CSS3 (1st Edition) (2013) (Microsoft Press)
 - Grady Booch & Robert A. Maksimchuk & Michael W. Engle & Bobbi J. Young & Jim Conallen & Kelli A. Houston - Object-Oriented Analysis and Design with Applications (3rd Edition) (2007) (Addison-Wesley Professional)
